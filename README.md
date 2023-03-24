@@ -4,3 +4,5 @@ The filter is black in color.
 
 Before applying the filter, the user can choose the number of threads that will be used in the process. 
 The processing time will be displayed, and it is also possible to run a speed test, which will be triggered automatically and will present the results to the user.
+
+Program includes many math operations, this is why it also contains a lot of comments to make the code easier to understand.
